@@ -1,0 +1,6 @@
+{
+  "name": "Windows Instant Internet Kill Switch & System Tray Suite",
+  "description": "One-click instant internet kill switch for Windows PC with system tray icon, live adapter control, global hotkey, auto-restore fail-safe, and comprehensive event logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
